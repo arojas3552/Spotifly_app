@@ -1,6 +1,6 @@
 # Angular Project
 
-This is an angular project 
+This is an angular full stack dynamic web app project 
 
 WIP
 
