@@ -1,0 +1,12 @@
+Spotifly
+
+Angular for front end
+
+Some ideas: 
+- social aspect	
+	- sending song recs to others
+	- liking others music
+- song recs
+	- undiscovered songs
+- playlists
+- better shuffling
