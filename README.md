@@ -1,7 +1,5 @@
 # Angular Project
 
-This is an angular full stack dynamic web app project 
+This is an Angular full stack dynamic web app project using Spotify API.
 
-WIP
-
-API: Spotify API
+Work in progress! Check documentation.txt for features. 
